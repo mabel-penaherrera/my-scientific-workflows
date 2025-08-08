@@ -1,0 +1,17 @@
+[
+    {
+        "sequence": "ACDE",
+        "forcefield": "amber14",
+        "output": "outputs/ACDE_amber14.pdb"
+    },
+    {
+        "sequence": "ACDE",
+        "forcefield": "charmm36",
+        "output": "outputs/ACDE_charmm36.pdb"
+    },
+    {
+        "sequence": "GGR",
+        "forcefield": "amber14",
+        "output": "outputs/GGR_amber14.pdb"
+    }
+]

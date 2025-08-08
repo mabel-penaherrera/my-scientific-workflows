@@ -1,0 +1,7 @@
+openmm==8.0
+mdtraj==1.9.7
+numpy
+matplotlib
+biopython
+pdbfixer
+PeptideBuilder

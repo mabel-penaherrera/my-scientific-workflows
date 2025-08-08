@@ -1,0 +1,2 @@
+Detected hydrogen bonds (donor - hydrogen - acceptor):
+GLU4-N - GLU4-H - CYS2-O

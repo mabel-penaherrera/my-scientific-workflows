@@ -1,0 +1,4 @@
+Circular mean of backbone torsions (deg):
+Residue 1: phi=-77.18, psi=139.44
+Residue 2: phi=-75.17, psi=160.88
+Residue 3: phi=-88.68, psi=63.38
